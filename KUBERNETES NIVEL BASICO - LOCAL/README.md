@@ -12,11 +12,11 @@ Este repositorio documenta un laboratorio práctico de Kubernetes realizado en u
 5. [Escalado](#escalar-aplicación)
 6. [Limpieza](#limpieza)
 
-## 🛠 Requisitos
+## Requisitos
 - Minikube instalado
 - kubectl
 
-## ⚙️ Configuración Inicial
+## Configuración Inicial
 
 ![Instalación](assets/Instalacion.png)
 
